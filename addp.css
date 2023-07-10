@@ -1,0 +1,27 @@
+section{
+    padding: 1rem;
+    
+}
+
+.main-form{
+
+    width: 70%;
+    max-width: 100%;
+
+}
+
+.inp{
+
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.formP{
+
+    width: 60%;
+
+}
+
+
